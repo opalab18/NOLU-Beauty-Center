@@ -4402,9 +4402,9 @@ fieldset:disabled .btn {
     width: 100%;
     padding: 1rem 1.25rem;
     font-size: 1rem;
-    color: #212529;
+    color: white;
     text-align: left;
-    background-color: #fff;
+    background-color: black;
     border: 0;
     border-radius: 0;
     overflow-anchor: none;
@@ -4481,6 +4481,7 @@ fieldset:disabled .btn {
 }
 .accordion-body {
     padding: 1rem 1.25rem;
+    color: black;
 }
 .accordion-flush .accordion-collapse {
     border-width: 0;
